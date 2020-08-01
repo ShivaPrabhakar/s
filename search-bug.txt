@@ -1,0 +1,171 @@
+{
+        "_id": "5f1aa9f60e354d5244c15bae",
+        "_user": {
+          "points": 480,
+          "_id": "5e44dd7804f8c91922d4a573",
+          "modifiedAt": "2020-07-27T06:52:07.709Z",
+          "lastName": "Shikhar",
+          "firstName": "Test",
+          "thumbNailImage": "https:\/\/d16a35lzjcij1x.cloudfront.net\/small_profile_Test_Shikhar1595598141828.jpg",
+          "profileImage": "https:\/\/d16a35lzjcij1x.cloudfront.net\/v2_profile_Test_Shikhar1595598141828.jpg",
+          "userType": "HUMAN",
+          "createdAt": "2020-02-13T05:24:08.028Z",
+          "email": "shikhar+spotadmin@spotcues.com",
+          "name": "Test Shikhar"
+        },
+        "_channel": "5e745f3c361bfa4a29bca5b3",
+        "text": "",
+        "subtitle": "",
+        "content": "#approval #vacation",
+        "type": "SPONSORED",
+        "attachments": [],
+        "comments": 0,
+        "likes": 0,
+        "user": "Test Shikhar",
+        "isMarkedSpam": false,
+        "_lastActingUser": "5e44dd7804f8c91922d4a573",
+        "template": "APPROVAL",
+        "deleted": false,
+        "hashTags": [
+          "#approval",
+          "#vacation"
+        ],
+        "userMentions": [],
+        "sponsoredData": {
+          "customData": {
+            "requestId": "5f1aa9f60e354d5244c15bad",
+            "isManagerFeed": false
+          },
+          "actions": [],
+          "aggregateId": "5dcbd80c0f39b84a81733b62_5f1aa9f60e354d5244c15bad",
+          "eventId": "5f1aa9f60e354d5244c15bad",
+          "appName": "Approval App",
+          "appIcon": "https:\/\/d16a35lzjcij1x.cloudfront.net\/v2_approve_test-5121573644123707.jpg",
+          "appUrl": "https:\/\/staging.groupe.io\/appsv2\/generic-approval",
+          "appId": "5dcbd80c0f39b84a81733b62"
+        },
+        "templateData": {
+          "primary": [
+            {
+              "order": 1,
+              "data": [
+                {
+                  "key": "Purpose",
+                  "value": "Test req53"
+                }
+              ]
+            },
+            {
+              "order": 2,
+              "data": [
+                {
+                  "order": 1,
+                  "key": "Start Date",
+                  "value": "Jul 28, 2020"
+                },
+                {
+                  "order": 2,
+                  "key": "End Date",
+                  "value": "Jul 29, 2020"
+                }
+              ]
+            }
+          ],
+          "secondary": [
+            {
+              "order": 1,
+              "data": [
+                {
+                  "order": 1,
+                  "key": "Description",
+                  "value": "description"
+                }
+              ]
+            },
+            {
+              "order": 2,
+              "data": [
+                {
+                  "order": 1,
+                  "key": "Approving Manager",
+                  "value": "<__sc_user__ id=\"5e75b3ddffff796f1b542ebc\">David User<\/__sc_user__>"
+                }
+              ]
+            }
+          ],
+          "usersCCed": [
+            {
+              "_id": "5e5d0f7035652828d8b13813",
+              "thumbNailImage": "https:\/\/d16a35lzjcij1x.cloudfront.net\/small_IMG_20200724_104540_profilePic1595567755041.jpg",
+              "profileImage": "https:\/\/d16a35lzjcij1x.cloudfront.net\/v2_IMG_20200724_104540_profilePic1595567755041.jpg",
+              "name": "Shikhar Test"
+            },
+            {
+              "_id": "5e746776361bfa4a29bcaa7b",
+              "name": "Shikhar M"
+            },
+            {
+              "_id": "5db92bc9397bb41f02b3291f",
+              "thumbNailImage": "https:\/\/d16a35lzjcij1x.cloudfront.net\/small_profile_Shikhar_M1580801614255.jpg",
+              "profileImage": "https:\/\/d16a35lzjcij1x.cloudfront.net\/v2_profile_Shikhar_M1580801614255.jpg",
+              "name": "Shikhar M"
+            },
+            {
+              "_id": "5e75eaf0eddc5c2430a64f1b",
+              "thumbNailImage": "https:\/\/d16a35lzjcij1x.cloudfront.net\/small_IMG_20200420_185712_profilePic1587389241061.jpg",
+              "profileImage": "https:\/\/d16a35lzjcij1x.cloudfront.net\/v2_IMG_20200420_185712_profilePic1587389241061.jpg",
+              "name": "David User"
+            },
+            {
+              "_id": "5e254a38f87bab524b9af1dd",
+              "thumbNailImage": "https:\/\/d16a35lzjcij1x.cloudfront.net\/small_IMG_20200320_170919_profilePic1584704366974.jpg",
+              "profileImage": "https:\/\/d16a35lzjcij1x.cloudfront.net\/v2_IMG_20200320_170919_profilePic1584704366974.jpg",
+              "name": "vibhu spot"
+            }
+          ],
+          "appData": {
+            "_app": "5dcbd80c0f39b84a81733b62",
+            "url": "https:\/\/staging.groupe.io\/appsv2\/generic-approval"
+          },
+          "statusData": {
+            "imageUrl": "https:\/\/spotcues-uploads.s3.amazonaws.com\/vacatoin.png",
+            "approvalType": "VACATION",
+            "title": "VACATION",
+            "statusText": "Waiting for Approval",
+            "status": "PENDING",
+            "statusColor": "#00BBCB",
+            "statusIcon": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA\/wD\/AP+gvaeTAAACQklEQVRIib2XvU8UURTFzwwUbLA3EmMlwX9ATBRjdkUraQT+CcBOxFpNNPwj9mKnletHUCsjQWIlbvyAxEarRfdnsWfcYbK7vDdZ9yaTybx7zznv47737iQKMGBU0oykOUnTko5LmrD7i6TvkjYlPZb0PEmS3yG8\/QQrwBqwT7jtA7eASlnRRaCRI9wC7gNVYBIY9zMJ1IAHjsmsASzECCYeZcsEr4HLEfgLQN3YljuUHgVKgYcGNYElIAnu9eHOL5sDc\/YWB+458AdQjRXswlc1F8DdXkGLnprmIEQL4k1zzxedlVwiLQ1KNMe\/Yu7Ph7IduJ1LpKA1BV4A9cDYBHhljdWscZTOPq1FjAKAiPhZQ\/aAkWwNAN6HkpQRNmbbsIup2segJD2KISlpG37PpZLO+uPpEISf+D2dSjrhj09DEM40JgT88ryPd4t09sZa12wHjtn\/M5WUJUivbdQqMbJeSZf+8wMf3YvTUczlsnrKsJ1U0je3n4ohKWmZxtdU7cpBkq4OQTjT2BRwycPfimEoOdU7hs0Uj8yYCz9KGLhiSPvIdOOaG98QfknUgWeBsQnw1ho38478tbgcOopQA26YexcYKzoX+D+FQA04MPf1XkGDLn1qdEqfO\/0Ci8XeSuiaF3gST++BufoXezlQvrx9B1yLEJ3NJVJYeVsgmKddI2W2DaybeIpOQX\/GW2Ud+JCL3+25pgHiFWDVey\/U9owZ68cdumdHJJ1Xu1o5p\/ZP20m7G+r8tG1IepkkyZ+jOP8C07GoSb2cHQAAAAAASUVORK5CYII="
+          }
+        },
+        "createdAt": "2020-07-24T09:29:26.985Z",
+        "_targetUsers": [
+          "5e5d0f7035652828d8b13813",
+          "5e746776361bfa4a29bcaa7b",
+          "5db92bc9397bb41f02b3291f",
+          "5e75eaf0eddc5c2430a64f1b",
+          "5e254a38f87bab524b9af1dd",
+          "5e44dd7804f8c91922d4a573"
+        ],
+        "_targetGroups": [],
+        "sticky": false,
+        "modifiedAt": "2020-07-24T09:29:26.990Z",
+        "preferences": {
+          "like_enabled": false,
+          "comment_enabled": false
+        },
+        "groupInfo": null,
+        "_comments": [],
+        "weight": 0,
+        "resultType": "post",
+        "isExactMatch": false,
+        "startIndex": -1,
+        "endIndex": 3,
+        "searchTextLocation": "text",
+        "textSubLocation": "",
+        "matchedText": "",
+        "userLiked": false,
+        "userCommented": false,
+        "canUnPin": true,
+        "lang": "en",
+        "postVersion": 1
+      }
